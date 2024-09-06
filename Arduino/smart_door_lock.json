@@ -1,0 +1,129 @@
+{
+  "rfid": {
+    "master": {
+      "add": {
+        "card": {
+          "cardUID": "CD53E3C9"
+        }
+      },
+      "card": "false",
+      "cardUID": "B31ABFFE",
+      "delete": {
+        "card": {
+          "cardUID": "CD53E3C9"
+        }
+      },
+      "password": "false"
+    },
+    "user": {
+      "card": {
+        "error": {
+          "cardUID": "A1D09B0F"
+        },
+        "pass": {
+          "cardUID": "CD53E3C9"
+        }
+      },
+      "keypad": {
+        "pass": {
+          "anonymous": 96
+        },
+        "wrong": {
+          "anonymous": "78968"
+        }
+      }
+    }
+  },
+  "rfid-management": {
+    "card": {
+      "-NxAKPQwjqq51Qz3czhr": {
+        "cardUID": "23485F05",
+        "createdDate": "2024-05-06T00:37:35.580Z"
+      }
+    },
+    "history-card": {
+      "-Nx96Hvph7NKoy2PEKsT": {
+        "IdCard": "90625813",
+        "Status": "Error",
+        "Thời gian ra": "",
+        "Thời gian vào": "2024-05-05T18:56:15.556Z"
+      },
+      "-NxAH4lH4vHLGmBMbT4L": {
+        "IdCard": "0821C999",
+        "Status": "Error",
+        "Thời gian ra": "",
+        "Thời gian vào": "2024-05-06T00:23:04.582Z"
+      },
+      "-NxAHmwO8HWfPaMzfVmz": {
+        "IdCard": "23485F05",
+        "Status": "Pass",
+        "Thời gian ra": "2024-05-06T00:26:18.720Z",
+        "Thời gian vào": "2024-05-06T00:26:09.611Z"
+      },
+      "-NxAHo1hS5q3s2Tnamlh": {
+        "IdCard": "CD53E3C9",
+        "Status": "Pass",
+        "Thời gian ra": "2024-05-06T00:26:23.538Z",
+        "Thời gian vào": "2024-05-06T00:26:14.111Z"
+      },
+      "-NxAHzVBi8zrrRE6m0SJ": {
+        "IdCard": "A1D09B0F",
+        "Status": "Error",
+        "Thời gian ra": "",
+        "Thời gian vào": "2024-05-06T00:27:01.055Z"
+      },
+      "-NxAHzq5ijHFyIk0vUq_": {
+        "IdCard": "90625813",
+        "Status": "Error",
+        "Thời gian ra": "",
+        "Thời gian vào": "2024-05-06T00:27:02.456Z"
+      },
+      "-NxAKfXpDIN6jNKopfRW": {
+        "IdCard": "0DD4D8C9",
+        "Status": "Error",
+        "Thời gian ra": "",
+        "Thời gian vào": "2024-05-06T00:38:45.736Z"
+      },
+      "-NxAKm6RDPYS2wL6FcHW": {
+        "IdCard": "A1D09B0F",
+        "Status": "Error",
+        "Thời gian ra": "",
+        "Thời gian vào": "2024-05-06T00:39:12.656Z"
+      },
+      "-NxAKmp1JBm038BWhZaF": {
+        "IdCard": "90625813",
+        "Status": "Error",
+        "Thời gian ra": "",
+        "Thời gian vào": "2024-05-06T00:39:15.574Z"
+      }
+    },
+    "history-keypad": {
+      "-Nx91f-sNS475kbgg8hE": {
+        "Password": "99999",
+        "Status": "Error",
+        "Thời gian ra": "",
+        "Thời gian vào": "2024-05-05T18:36:03.695Z"
+      },
+      "-Nx91mcLMWT2KVBWSIee": {
+        "IdCard": 23,
+        "Password": 23,
+        "Status": "Pass",
+        "Thời gian ra": "",
+        "Thời gian vào": "2024-05-05T18:36:34.874Z"
+      },
+      "-NxAH7HjREBqPmbZ2bgU": {
+        "Password": "78968",
+        "Status": "Error",
+        "Thời gian ra": "",
+        "Thời gian vào": "2024-05-06T00:23:14.918Z"
+      },
+      "-NxAH8mWMyLnBDQeP9nU": {
+        "IdCard": 96,
+        "Password": 96,
+        "Status": "Pass",
+        "Thời gian ra": "",
+        "Thời gian vào": "2024-05-06T00:23:21.046Z"
+      }
+    }
+  }
+}
